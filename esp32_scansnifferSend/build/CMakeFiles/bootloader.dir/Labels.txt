@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/yjx/share/project/esp-idf/examples/project/esp32_scansnifferSend/build/CMakeFiles/bootloader
+/home/yjx/share/project/esp-idf/examples/project/esp32_scansnifferSend/build/CMakeFiles/bootloader.rule
+/home/yjx/share/project/esp-idf/examples/project/esp32_scansnifferSend/build/CMakeFiles/bootloader-complete.rule
+/home/yjx/share/project/esp-idf/examples/project/esp32_scansnifferSend/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/yjx/share/project/esp-idf/examples/project/esp32_scansnifferSend/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/yjx/share/project/esp-idf/examples/project/esp32_scansnifferSend/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/yjx/share/project/esp-idf/examples/project/esp32_scansnifferSend/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/yjx/share/project/esp-idf/examples/project/esp32_scansnifferSend/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/yjx/share/project/esp-idf/examples/project/esp32_scansnifferSend/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/yjx/share/project/esp-idf/examples/project/esp32_scansnifferSend/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
